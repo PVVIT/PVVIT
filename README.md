@@ -90,7 +90,7 @@
     </td>
     <td align="center">
       <img src="https://yt3.googleusercontent.com/OCa61LIbF7GjbiVc9JV8xILc3nPxCi1sZAeubYaDkAlqV5kMfpc0bNjFHyS3S6cX7g4MQCtsDNc=s900-c-k-c0x00ffffff-no-rj" width="40"><br>
-      Cursor
+      Trae
     </td>
   </tr>
 </table>
